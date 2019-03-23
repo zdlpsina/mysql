@@ -20,3 +20,4 @@ mysql数据库安装以及使用
 - `sudo dpkg-reconfigure mysql-apt-config`
 - `sudo apt-get update`
 
+# 问题解决：查看wiki页
